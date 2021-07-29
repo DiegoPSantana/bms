@@ -1,0 +1,26 @@
+Crie uma pasta com o nome core dentro do projeto e faça esses downloads dentro da pasta core:
+
+slf4j-api-1.6.6.jar:
+http://www.java2s.com/Code/Jar/s/Downloadslf4japi166jar.htm
+
+slf4j-jdk14-1.7.5.jar
+https://jar-download.com/download-handling.php
+
+mina-core-2.0.7.jar
+http://www.java2s.com/Code/Jar/o/Downloadorgapacheminacore207jar.htm
+
+Os arquivos acima foram adiantados o seu download, quando ao executar o 
+NetBeans você encontrarar alguns erros de falta dos arquivos, resolva os
+problemas assim selecionando o arquivo na pasta nova core, aonde foi
+colocado os arquivos
+
+Nesse inicio estamos usando a plataforma "JDK_1.7"
+para poder baixar direto do site e escolher sua distro
+você deve criar uma conta na oracle, link com o modelo
+da sua distru, em sequida ele pede pra logar:
+https://www.oracle.com/br/java/technologies/javase/javase7-archive-downloads.html
+
+Aṕos instalação do java "JDK_1.7" abrindo o NetBeans ele vai pedir para resolver
+os problemas, busque pela pasta da instalação em Linux /usr/bin/jvm no Windows
+normalmente C:\Program Files
+
